@@ -15,7 +15,7 @@
    - Sistema de geração de imagens após cada cenário.
   
 2. **Features**
-   - Estrutura das features aninhadas utilizando dos 4 desafios básicos é uma forma de explicar um pouco  o conceito que falei na entrevista sobre micro serviços aninhados, que demandam utilizar urls diferentes, utilizei o exemplo na web para exemplificar.
+   - Estrutura das features aninhadas utilizando dos 4 desafios básicos. É uma forma de explicar um pouco o conceito que falei na entrevista sobre micro serviços aninhados, que demandam utilizar urls diferentes, utilizei o exemplo na web para exemplificar.
    - A montagem dessa feature foi totalmente utilizada para seguir um padrão de keywords como uma criação de uma pseudo-framework, para demonstrar o quão configurável o selenium pode ser e o quão intuitivo ele consegue ser exemplificado, que fique de exemplo para quem entrar no repositório.
      
 3. **Runner**
@@ -63,7 +63,9 @@
 
 4. **Cenário: Controle do Slider**
    - Utilização de inserção de javascript para manipular a barra.
-
+   - 
+## Recomendação de leitura rsrs
+   - Tenho um artigo escrito por mim sobre quando utilizar (ou não) o selenium, mostrando prós e contras, POC's e mais :D : https://www.linkedin.com/pulse/avalia%C3%A7%C3%A3o-da-framework-selenium-vinicius-moreira/
 ## Tecnologias utilizadas
 
 <div align="left">
